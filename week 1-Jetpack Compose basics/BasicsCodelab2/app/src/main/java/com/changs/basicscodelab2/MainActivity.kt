@@ -4,6 +4,8 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
 import androidx.compose.material.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
@@ -55,16 +57,8 @@ fun DefaultPreview() {
 }
 
 @Composable
-private fun Greetings(names: List<String> = listOf("World", "Compose")) {
-    Column(modifier = Modifier.padding(vertical = 4.dp)) {
-        for (name in names) {
-            Greeting(name = name)
-        }
-    }
-}
-
-@Composable
 fun MyApp() {
+
     var shouldShowOnboarding by remember { mutableStateOf(true) }
 
     if (shouldShowOnboarding) {
@@ -76,7 +70,18 @@ fun MyApp() {
 
 
 @Composable
+private fun Greetings(names: List<String> = List(1000) { "$it" } ) {
+    LazyColumn(modifier = Modifier.padding(vertical = 4.dp)) {
+        items(items = names) { name ->
+            Greeting(name = name)
+        }
+    }
+}
+
+
+@Composable
 fun OnboardingScreen(onContinueClicked: () -> Unit) {
+    var shouldShowOnboarding by remember { mutableStateOf(true) }
 
     Surface {
         Column(
@@ -100,6 +105,6 @@ fun OnboardingScreen(onContinueClicked: () -> Unit) {
 @Composable
 fun OnboardingPreview() {
     BasicsCodelab2Theme {
-        OnboardingScreen(onContinueClicked = {}) // Do nothing on click.
+        OnboardingScreen(onContinueClicked = {})// Do nothing on click.
     }
 }
