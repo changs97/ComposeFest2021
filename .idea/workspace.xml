@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bb212ad-c937-4788-9031-11b4cb87280c" name="Default Changelist" comment="" />
+    <list default="true" id="6bb212ad-c937-4788-9031-11b4cb87280c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/androidTest/java/com/changs/layoutscodelab/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/changs/layoutscodelab/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/changs/layoutscodelab/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/changs/layoutscodelab/ui/theme/Shape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/changs/layoutscodelab/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/java/com/changs/layoutscodelab/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/app/src/test/java/com/changs/layoutscodelab/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutsCodelab/settings.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
