@@ -23,6 +23,7 @@ import androidx.databinding.DataBindingUtil.setContentView
 import com.google.samples.apps.sunflower.databinding.ActivityGardenBinding
 
 class GardenActivity : AppCompatActivity() {
+    
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
